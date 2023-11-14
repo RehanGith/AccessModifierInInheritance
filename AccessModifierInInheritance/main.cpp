@@ -37,5 +37,5 @@ int main() {
 
 	PublicDerived obj2;
 	obj2.d = 10;
-
+	obj.display();
 }
