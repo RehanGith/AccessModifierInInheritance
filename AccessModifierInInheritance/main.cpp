@@ -36,5 +36,6 @@ int main() {
 	obj.display();
 
 	PublicDerived obj2;
+	obj2.d = 10;
 
 }
